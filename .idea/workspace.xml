@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c24ff5ad-871b-4e1c-be6a-df3a042e0ef5" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/config/language.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/ru/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/cars/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/cars/13_no_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/cars/6.1_tmcars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/cars/appstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/cars/googleplay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/cars/slider.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/cars/slider1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/cars/slider2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/cars/slider3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/cars/slider4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/cars/slider5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/cars/slider6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/car/userCars.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CarController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/CarController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Brand.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Brand.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Car.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Car.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Color.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Color.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/locale.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/locale.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/CarFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/CarFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2023_07_04_151723_create_colors_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2023_07_04_151723_create_colors_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2023_07_04_151732_create_cars_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2023_07_04_151732_create_cars_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/ColorSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/ColorSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang/en/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/lang/en/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang/tm/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/lang/tm/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/app/car.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/app/car.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/app/nav.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/app/nav.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/car/show/car.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/car/show/car.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CarSeeder.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/database/seeders/CarSeeder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ColorSeeder.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/seeders/ColorSeeder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="22" column="73" selection-start-line="22" selection-start-column="73" selection-end-line="22" selection-end-column="73" />
+              <folding>
+                <element signature="e#36#57#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatabaseSeeder.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/seeders/DatabaseSeeder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LocationSeeder.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/seeders/LocationSeeder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-153" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="YearSeeder.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/seeders/YearSeeder.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="app.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lang/ru/app.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="41" column="2" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lang/tm/app.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2023_07_04_151732_create_cars_table.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2023_07_04_151732_create_cars_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CarFactory.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/factories/CarFactory.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrandSeeder.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/seeders/BrandSeeder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-153" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>loca</find>
+      <find>colo</find>
+      <find>input</find>
+      <find>filte</find>
+      <find>cars</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
+        <option value="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/EncryptCookies.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" />
+        <option value="$PROJECT_DIR$/resources/views/car/show.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/app/alert.blade.php" />
+        <option value="$PROJECT_DIR$/lang/en/app.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
+        <option value="$PROJECT_DIR$/lang/tm/app.php" />
+        <option value="$PROJECT_DIR$/database/seeders/BrandSeeder.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" />
+        <option value="$PROJECT_DIR$/resources/views/car/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/car/show/car.blade.php" />
+        <option value="$PROJECT_DIR$/app/Models/Car.php" />
+        <option value="$PROJECT_DIR$/app/Models/User.php" />
+        <option value="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" />
+        <option value="$PROJECT_DIR$/resources/views/car/userCars.blade.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/app/Models/name_en.php" />
+        <option value="$PROJECT_DIR$/config/locale.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/LanguageSwitcher.php" />
+        <option value="$PROJECT_DIR$/app/Models/Color.php" />
+        <option value="$PROJECT_DIR$/config/language.php" />
+        <option value="$PROJECT_DIR$/resources/views/app/nav.blade.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2023_07_04_151723_create_colors_table.php" />
+        <option value="$PROJECT_DIR$/resources/views/app/car.blade.php" />
+        <option value="$PROJECT_DIR$/database/seeders/ColorSeeder.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/CarController.php" />
+        <option value="$PROJECT_DIR$/resources/views/home/index.blade.php" />
+        <option value="$PROJECT_DIR$/app/Models/Brand.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
+        <option value="$PROJECT_DIR$/lang/ru/app.php" />
+        <option value="$PROJECT_DIR$/database/factories/CarFactory.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2023_07_04_151732_create_cars_table.php" />
+        <option value="$PROJECT_DIR$/database/seeders/CarSeeder.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/spatie/backtrace" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-ignition" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-package-tools" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/spatie/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/spatie/ignition" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-honeypot" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/uid" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-uuid" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/php-cors" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/uri-template" />
+      <path value="$PROJECT_DIR$/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/termwind" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/league/config" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem-local" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sanctum" />
+      <path value="$PROJECT_DIR$/vendor/laravel/breeze" />
+      <path value="$PROJECT_DIR$/vendor/laravel/pint" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="231" />
+    <option name="y" value="-19" />
+    <option name="width" value="980" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Console" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Exceptions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Middleware" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Requests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Providers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="factories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="seeders" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="ru" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="tm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="car" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="car" type="462c0819:PsiDirectoryNode" />
+              <item name="show" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="contact" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cars - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\Laravel\cars - Copy\public\img\cars" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c24ff5ad-871b-4e1c-be6a-df3a042e0ef5" name="Default" comment="" />
+      <created>1710843454596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710843454596</updated>
+      <workItem from="1710843460710" duration="2311000" />
+      <workItem from="1711018300569" duration="4952000" />
+      <workItem from="1711090267698" duration="4281000" />
+      <workItem from="1711124460885" duration="259000" />
+      <workItem from="1711216454313" duration="592000" />
+      <workItem from="1711358060468" duration="11000" />
+      <workItem from="1711358333406" duration="725000" />
+      <workItem from="1711359159504" duration="11000" />
+      <workItem from="1711367256689" duration="3228000" />
+      <workItem from="1711566225339" duration="130000" />
+      <workItem from="1711610573038" duration="574000" />
+      <workItem from="1711893760722" duration="3000" />
+      <workItem from="1712064285943" duration="219000" />
+      <workItem from="1712077296760" duration="861000" />
+      <workItem from="1712256142978" duration="914000" />
+      <workItem from="1712332305709" duration="10025000" />
+      <workItem from="1712417489105" duration="1713000" />
+      <workItem from="1712419722795" duration="1780000" />
+      <workItem from="1712421547752" duration="1226000" />
+      <workItem from="1712433848077" duration="1804000" />
+      <workItem from="1712508270664" duration="1770000" />
+      <workItem from="1712510115402" duration="1092000" />
+      <workItem from="1712552383066" duration="61000" />
+      <workItem from="1712566289682" duration="845000" />
+      <workItem from="1712567517774" duration="1122000" />
+      <workItem from="1712586083162" duration="451000" />
+      <workItem from="1712601150198" duration="12000" />
+      <workItem from="1712912710362" duration="910000" />
+      <workItem from="1712913690494" duration="632000" />
+      <workItem from="1712914476153" duration="5158000" />
+      <workItem from="1713033832261" duration="656000" />
+      <workItem from="1713171687146" duration="541000" />
+      <workItem from="1713172672977" duration="1824000" />
+      <workItem from="1713174528178" duration="594000" />
+      <workItem from="1713343182922" duration="713000" />
+      <workItem from="1713546440661" duration="1147000" />
+      <workItem from="1713779405871" duration="307000" />
+      <workItem from="1713793729367" duration="1856000" />
+      <workItem from="1713872604326" duration="9803000" />
+      <workItem from="1714053842418" duration="3118000" />
+      <workItem from="1714114176114" duration="3271000" />
+      <workItem from="1714206515655" duration="4028000" />
+      <workItem from="1714288236133" duration="480000" />
+      <workItem from="1714288812502" duration="24000" />
+      <workItem from="1714288854031" duration="6000" />
+      <workItem from="1714292119736" duration="580000" />
+      <workItem from="1714293772676" duration="123000" />
+      <workItem from="1714294703040" duration="16000" />
+      <workItem from="1714294921538" duration="470000" />
+      <workItem from="1714295520062" duration="42000" />
+      <workItem from="1714295588480" duration="38000" />
+      <workItem from="1714295962044" duration="119000" />
+      <workItem from="1714296161887" duration="39000" />
+      <workItem from="1714296243477" duration="28000" />
+      <workItem from="1714296295646" duration="70000" />
+      <workItem from="1714296658883" duration="33000" />
+      <workItem from="1714296747697" duration="23000" />
+      <workItem from="1714297213563" duration="44000" />
+      <workItem from="1714297340347" duration="29000" />
+      <workItem from="1714297415457" duration="22000" />
+      <workItem from="1714297537895" duration="18000" />
+      <workItem from="1714297617685" duration="66000" />
+      <workItem from="1714297940752" duration="34000" />
+      <workItem from="1714298152210" duration="796000" />
+      <workItem from="1714299086653" duration="32000" />
+      <workItem from="1714299197922" duration="39000" />
+      <workItem from="1714299262361" duration="83000" />
+      <workItem from="1714299788647" duration="9000" />
+      <workItem from="1714301043156" duration="101000" />
+      <workItem from="1714301240614" duration="54000" />
+      <workItem from="1714301443182" duration="228000" />
+      <workItem from="1714301730550" duration="155000" />
+      <workItem from="1714301926378" duration="24000" />
+      <workItem from="1714302023977" duration="20000" />
+      <workItem from="1714302129986" duration="101000" />
+      <workItem from="1714302247735" duration="11000" />
+      <workItem from="1714406953947" duration="64000" />
+      <workItem from="1714661825719" duration="220000" />
+      <workItem from="1714662080993" duration="62000" />
+      <workItem from="1714664111553" duration="1673000" />
+      <workItem from="1714834061254" duration="15000" />
+      <workItem from="1714835753769" duration="283000" />
+      <workItem from="1714836069121" duration="218000" />
+      <workItem from="1714836307072" duration="45000" />
+      <workItem from="1714836396306" duration="30000" />
+      <workItem from="1714836494973" duration="7000" />
+      <workItem from="1714836537772" duration="21000" />
+      <workItem from="1714836677342" duration="45000" />
+      <workItem from="1714836790935" duration="8000" />
+      <workItem from="1714836811229" duration="29000" />
+      <workItem from="1714836863908" duration="18000" />
+      <workItem from="1714836920877" duration="13000" />
+      <workItem from="1714836947446" duration="28000" />
+      <workItem from="1714837000840" duration="33000" />
+      <workItem from="1714891255110" duration="29000" />
+      <workItem from="1714891449175" duration="114000" />
+      <workItem from="1715266329121" duration="28000" />
+      <workItem from="1715462974869" duration="84000" />
+      <workItem from="1715463136002" duration="15000" />
+      <workItem from="1715463662683" duration="37000" />
+      <workItem from="1715464277898" duration="131000" />
+      <workItem from="1715465049872" duration="97000" />
+      <workItem from="1715465196020" duration="18000" />
+      <workItem from="1715465313080" duration="154000" />
+      <workItem from="1715465593508" duration="8000" />
+      <workItem from="1715465784971" duration="21000" />
+      <workItem from="1715466307372" duration="72000" />
+      <workItem from="1715467814581" duration="17000" />
+      <workItem from="1715467941879" duration="7000" />
+      <workItem from="1715467958809" duration="15000" />
+      <workItem from="1715492101548" duration="502000" />
+      <workItem from="1715493557474" duration="11000" />
+      <workItem from="1715493600036" duration="15000" />
+      <workItem from="1715493643100" duration="13000" />
+      <workItem from="1715493703661" duration="15000" />
+      <workItem from="1715493743879" duration="18000" />
+      <workItem from="1715493788961" duration="18000" />
+      <workItem from="1715493825612" duration="13000" />
+      <workItem from="1715493860465" duration="23000" />
+      <workItem from="1715493901236" duration="10000" />
+      <workItem from="1715493927264" duration="15000" />
+      <workItem from="1715493985450" duration="22000" />
+      <workItem from="1715494214855" duration="314000" />
+      <workItem from="1715494738968" duration="42000" />
+      <workItem from="1715495357908" duration="20000" />
+      <workItem from="1715495573759" duration="15000" />
+      <workItem from="1715495610314" duration="17000" />
+      <workItem from="1715495650748" duration="19000" />
+      <workItem from="1715495861285" duration="47000" />
+      <workItem from="1715496144022" duration="49000" />
+      <workItem from="1715496215834" duration="11000" />
+      <workItem from="1715496298278" duration="19000" />
+      <workItem from="1715496343570" duration="24000" />
+      <workItem from="1715496476742" duration="12000" />
+      <workItem from="1715499611432" duration="20000" />
+      <workItem from="1715499644006" duration="64000" />
+      <workItem from="1715502893973" duration="98000" />
+      <workItem from="1715504909330" duration="127000" />
+      <workItem from="1715505169329" duration="18000" />
+      <workItem from="1715505248489" duration="18000" />
+      <workItem from="1715505672867" duration="22000" />
+      <workItem from="1715505737833" duration="19000" />
+      <workItem from="1715506468798" duration="27000" />
+      <workItem from="1715506520806" duration="17000" />
+      <workItem from="1715506850219" duration="20000" />
+      <workItem from="1715507475145" duration="51000" />
+      <workItem from="1715507536356" duration="27000" />
+      <workItem from="1715507682309" duration="31000" />
+      <workItem from="1715507833742" duration="17000" />
+      <workItem from="1715508183966" duration="25000" />
+      <workItem from="1715508259012" duration="21000" />
+      <workItem from="1715508325783" duration="31000" />
+      <workItem from="1715508511530" duration="19000" />
+      <workItem from="1715533580872" duration="36000" />
+      <workItem from="1715533643398" duration="25000" />
+      <workItem from="1715533705484" duration="67000" />
+      <workItem from="1715533984320" duration="28000" />
+      <workItem from="1715534216817" duration="40000" />
+      <workItem from="1715534268626" duration="12000" />
+      <workItem from="1715534292032" duration="127000" />
+      <workItem from="1715534488914" duration="67000" />
+      <workItem from="1715534627299" duration="16000" />
+      <workItem from="1715534675102" duration="34000" />
+      <workItem from="1715534844389" duration="19000" />
+      <workItem from="1715534892263" duration="13000" />
+      <workItem from="1715534944333" duration="7000" />
+      <workItem from="1715535154839" duration="104000" />
+      <workItem from="1715535430934" duration="54000" />
+      <workItem from="1715535495156" duration="17000" />
+      <workItem from="1715535554400" duration="14000" />
+      <workItem from="1715535599015" duration="17000" />
+      <workItem from="1715535658917" duration="8000" />
+      <workItem from="1715535737383" duration="28000" />
+      <workItem from="1715535801103" duration="30000" />
+      <workItem from="1715535909614" duration="14000" />
+      <workItem from="1715535996418" duration="14000" />
+      <workItem from="1715536043785" duration="12000" />
+      <workItem from="1715884665577" duration="26000" />
+      <workItem from="1717423155351" duration="108000" />
+      <workItem from="1717423340873" duration="154000" />
+      <workItem from="1717423546908" duration="111000" />
+      <workItem from="1717423777016" duration="1424000" />
+      <workItem from="1717425242622" duration="35000" />
+      <workItem from="1717771423435" duration="2769000" />
+      <workItem from="1717774261186" duration="411000" />
+      <workItem from="1717863897221" duration="177000" />
+      <workItem from="1717864117978" duration="25000" />
+      <workItem from="1717864759007" duration="18000" />
+      <workItem from="1717864946291" duration="33000" />
+      <workItem from="1717866454420" duration="279000" />
+      <workItem from="1717866767843" duration="1640000" />
+      <workItem from="1717868524242" duration="824000" />
+      <workItem from="1717869468544" duration="635000" />
+      <workItem from="1717935597871" duration="162000" />
+      <workItem from="1718008135999" duration="1014000" />
+      <workItem from="1718009195085" duration="3334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="99064000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="784" extended-state="7" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3978328" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2674772" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/views/app/alert.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/name_en.php" />
+    <entry file="file://$PROJECT_DIR$/resources/views/auth/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-726" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/broadcasting.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Exceptions/Handler.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/LanguageSwitcher.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#39#51#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/LocaleMiddleware.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="69" lean-forward="true" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Car.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Contact.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/User.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Year.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AuthServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-185" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/BroadcastServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/EventServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/RouteServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="27" column="85" lean-forward="true" selection-start-line="27" selection-start-column="85" selection-end-line="27" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/language.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/locale.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/UserFactory.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/car/userCars.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/app/nav.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="83" column="21" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/car/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/contact/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/car/show/car.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-675" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Location.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2023_07_04_151644_create_locations_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2023_07_15_204541_add_name_en_to_colors_table.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2023_07_15_204535_add_name_en_to_locations_table.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/home/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/app/car.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="85" selection-start-line="5" selection-start-column="85" selection-end-line="5" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Brand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CarController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-916">
+          <caret line="117" selection-start-line="117" selection-end-line="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ContactController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Color.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2023_07_04_151723_create_colors_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeders/BrandSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeders/ColorSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="22" column="73" selection-start-line="22" selection-start-column="73" selection-end-line="22" selection-end-column="73" />
+          <folding>
+            <element signature="e#36#57#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeders/DatabaseSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeders/LocationSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeders/YearSeeder.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lang/tm/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lang/ru/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="41" column="2" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/CarFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2023_07_04_151732_create_cars_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeders/CarSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
